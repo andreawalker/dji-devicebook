@@ -1,0 +1,4 @@
+DJI for Devicebook Privacy Policy
+
+The app does not collect any more information than the DJI SDK may collect.
+The DJI SDK privacy policy is documented at https://www.dji.com/policy
